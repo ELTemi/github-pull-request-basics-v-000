@@ -64,6 +64,7 @@ fingers will both grasp what's going on.
 7. Create a pull request that requests your improved code be "pulled" into the
    source repo.
 
+Its interesting how much you learn in a short time. Git/github is awesome!
 ### Pull Request From One Fork To Another
 
 Here's a story:
