@@ -97,6 +97,8 @@ Click on the New Pull Request button.
 Here you can choose the base fork, which will be `their-user-name/awesome-lab`.
 Then choose the head fork, which will be `your-user-name/awesome-lab`
 
+tests
+
 Now click Create pull request.
 
 ![](https://curriculum-content.s3.amazonaws.com/gitpulls/4.jpg)
